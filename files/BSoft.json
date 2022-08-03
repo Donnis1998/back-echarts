@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Bsoft",
+    "value": [{ "About": "informacion detallada" }],
+    "collapsed": false,
+    "children": [
+      {
+        "name": "RISK",
+        "value": [{ "About": "Information about risk" }],
+        "collapsed": false,
+        "children": []
+      },
+      {
+        "name": "Front",
+        "value": [{ "ABout": "Information about fron" }],
+        "collapsed": false,
+        "children": [
+          {
+            "name": "Components",
+            "value": [{ "About": "Information about components" }],
+            "collapsed": false,
+            "children": []
+          }
+        ]
+      },
+      { "name": "Bit", "value": [], "collapsed": false, "children": [] }
+    ]
+  }
+]
